@@ -10,6 +10,7 @@ Welcome to the official Github repository for the Astronomia Token BSC (ASTRON) 
 
 - **Token name:** Astronomia Token BSC (ASTRON)
 - **Contract:** 0x6ae97e66eec23b4fdf77cd4ca423ecfbd439c39e
+- **BSCScan:** [https://bscscan.com/token/0x6ae97e66eec23b4fdf77cd4ca423ecfbd439c39e](https://bscscan.com/token/0x6ae97e66eec23b4fdf77cd4ca423ecfbd439c39e)
 
 ### Websites
 
