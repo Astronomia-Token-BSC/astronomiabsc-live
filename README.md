@@ -2,7 +2,7 @@
 
 Welcome to the official Github repository for the Astronomia Token BSC (ASTRON) DEFI application. ASTRON is a community-driven token, and we are excited to make our decentralized exchange (DEX) application public to encourage collaboration and contributions from our token holders and the broader developer community.
 
-![Astronomia](https://astronomia.finance/assets/images/logo.png)
+![Astronomia](https://astronomiabsc.com/static/media/astron.d4a1c0ea.png)
 
 ## Resources
 
